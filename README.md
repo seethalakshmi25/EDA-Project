@@ -54,7 +54,7 @@ One row (Blackbaud, 500 layoffs) had an unparseable original date value. It was 
 
 | File | Description |
 |---|---|
-| `layoffs_cleaned.csv` | Cleaned dataset used for analysis |
+| `layoffs_analysis.csv` | Cleaned dataset used for analysis |
 | `layoffs_analysis.sql` | All SQL queries: cleaning + EDA, with comments |
-| `layoffs_eda.ipynb` | Python notebook with charts |
+| `datavisualization.ipynb` | Python notebook with charts |
 | `README.md` | This file |
